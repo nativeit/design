@@ -1,0 +1,57 @@
+/* inconsolata-extraexpanded-black */
+@font-face {
+	font-family: Inconsolata ExtraExpanded;
+	font-style: normal;
+	font-weight: 900;
+	src: local("Inconsolata ExtraExpanded Black"), local("InconsolataExtraExpanded-Black"), url(inconsolata-extraexpanded-black.woff2) format("woff2");
+}
+/* inconsolata-extraexpanded-bold */
+@font-face {
+	font-family: Inconsolata ExtraExpanded;
+	font-style: normal;
+	font-weight: 700;
+	src: local("Inconsolata ExtraExpanded Bold"), local("InconsolataExtraExpanded-Bold"), url(inconsolata-extraexpanded-bold.woff2) format("woff2");
+}
+/* inconsolata-extraexpanded-extrabold */
+@font-face {
+	font-family: Inconsolata ExtraExpanded;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata ExtraExpanded ExtraBold"), local("InconsolataExtraExpanded-ExtraBold"), url(inconsolata-extraexpanded-extrabold.woff2) format("woff2");
+}
+/* inconsolata-extraexpanded-extralight */
+@font-face {
+	font-family: Inconsolata ExtraExpanded;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata ExtraExpanded ExtraLight"), local("InconsolataExtraExpanded-ExtraLight"), url(inconsolata-extraexpanded-extralight.woff2) format("woff2");
+}
+/* inconsolata-extraexpanded-light */
+@font-face {
+	font-family: Inconsolata ExtraExpanded;
+	font-style: normal;
+	font-weight: 300;
+	src: local("Inconsolata ExtraExpanded Light"), local("InconsolataExtraExpanded-Light"), url(inconsolata-extraexpanded-light.woff2) format("woff2");
+}
+/* inconsolata-extraexpanded-medium */
+@font-face {
+	font-family: Inconsolata ExtraExpanded;
+	font-style: normal;
+	font-weight: 500;
+	src: local("Inconsolata ExtraExpanded Medium"), local("InconsolataExtraExpanded-Medium"), url(inconsolata-extraexpanded-medium.woff2) format("woff2");
+}
+/* inconsolata-extraexpanded-regular */
+@font-face {
+	font-family: Inconsolata ExtraExpanded;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata ExtraExpanded Regular"), local("InconsolataExtraExpanded-Regular"), url(inconsolata-extraexpanded-regular.woff2) format("woff2");
+}
+/* inconsolata-extraexpanded-semibold */
+@font-face {
+	font-family: Inconsolata ExtraExpanded;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata ExtraExpanded SemiBold"), local("InconsolataExtraExpanded-SemiBold"), url(inconsolata-extraexpanded-semibold.woff2) format("woff2");
+}
+

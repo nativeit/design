@@ -1,0 +1,33 @@
+[submodule "TW-Elements"]
+	path = TW-Elements
+	url = https://github.com/nativeit-dev/TW-Elements.git
+[submodule "fonts/Bebas-Neue"]
+	path = fonts/Bebas-Neue
+	url = https://github.com/dharmatype/Bebas-Neue.git
+[submodule "fonts/webfont-kit-generator"]
+	path = fonts/webfont-kit-generator
+	url = https://github.com/rafaelmardojai/webfont-kit-generator.git
+[submodule "css/bahunya"]
+	path = css/bahunya
+	url = https://github.com/Kimeiga/bahunya.git
+[submodule "css/bamboo"]
+	path = css/bamboo
+	url = https://github.com/rilwis/bamboo.git
+[submodule "css/picocss"]
+	path = css/picocss
+	url = https://github.com/picocss/pico.git
+[submodule "css/sakura"]
+	path = css/sakura
+	url = https://github.com/oxalorg/sakura.git
+[submodule "css/sanitize.css"]
+	path = css/sanitize.css
+	url = https://github.com/csstools/sanitize.css.git
+[submodule "css/stylize.css"]
+	path = css/stylize.css
+	url = https://github.com/vasanthv/stylize.css.git
+[submodule "css/tufte-css"]
+	path = css/tufte-css
+	url = https://github.com/edwardtufte/tufte-css.git
+[submodule "components/evolution-ui"]
+	path = components/evolution-ui
+	url = https://github.com/evolution-ui/evolution-ui.git

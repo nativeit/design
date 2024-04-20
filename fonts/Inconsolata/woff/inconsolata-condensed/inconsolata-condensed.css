@@ -1,0 +1,57 @@
+/* inconsolata-condensed-black */
+@font-face {
+	font-family: Inconsolata Condensed;
+	font-style: normal;
+	font-weight: 900;
+	src: local("Inconsolata Condensed Black"), local("InconsolataCondensed-Black"), url(inconsolata-condensed-black.woff2) format("woff2");
+}
+/* inconsolata-condensed-bold */
+@font-face {
+	font-family: Inconsolata Condensed;
+	font-style: normal;
+	font-weight: 700;
+	src: local("Inconsolata Condensed Bold"), local("InconsolataCondensed-Bold"), url(inconsolata-condensed-bold.woff2) format("woff2");
+}
+/* inconsolata-condensed-extrabold */
+@font-face {
+	font-family: Inconsolata Condensed;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata Condensed ExtraBold"), local("InconsolataCondensed-ExtraBold"), url(inconsolata-condensed-extrabold.woff2) format("woff2");
+}
+/* inconsolata-condensed-extralight */
+@font-face {
+	font-family: Inconsolata Condensed;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata Condensed ExtraLight"), local("InconsolataCondensed-ExtraLight"), url(inconsolata-condensed-extralight.woff2) format("woff2");
+}
+/* inconsolata-condensed-light */
+@font-face {
+	font-family: Inconsolata Condensed;
+	font-style: normal;
+	font-weight: 300;
+	src: local("Inconsolata Condensed Light"), local("InconsolataCondensed-Light"), url(inconsolata-condensed-light.woff2) format("woff2");
+}
+/* inconsolata-condensed-medium */
+@font-face {
+	font-family: Inconsolata Condensed;
+	font-style: normal;
+	font-weight: 500;
+	src: local("Inconsolata Condensed Medium"), local("InconsolataCondensed-Medium"), url(inconsolata-condensed-medium.woff2) format("woff2");
+}
+/* inconsolata-condensed-regular */
+@font-face {
+	font-family: Inconsolata Condensed;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata Condensed Regular"), local("InconsolataCondensed-Regular"), url(inconsolata-condensed-regular.woff2) format("woff2");
+}
+/* inconsolata-condensed-semibold */
+@font-face {
+	font-family: Inconsolata Condensed;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata Condensed SemiBold"), local("InconsolataCondensed-SemiBold"), url(inconsolata-condensed-semibold.woff2) format("woff2");
+}
+

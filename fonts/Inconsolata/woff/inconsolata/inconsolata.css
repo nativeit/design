@@ -1,0 +1,57 @@
+/* inconsolata-black */
+@font-face {
+	font-family: Inconsolata;
+	font-style: normal;
+	font-weight: 900;
+	src: local("Inconsolata Black"), local("Inconsolata-Black"), url(inconsolata-black.woff2) format("woff2");
+}
+/* inconsolata-bold */
+@font-face {
+	font-family: Inconsolata;
+	font-style: normal;
+	font-weight: 700;
+	src: local("Inconsolata Bold"), local("Inconsolata-Bold"), url(inconsolata-bold.woff2) format("woff2");
+}
+/* inconsolata-extrabold */
+@font-face {
+	font-family: Inconsolata;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata ExtraBold"), local("Inconsolata-ExtraBold"), url(inconsolata-extrabold.woff2) format("woff2");
+}
+/* inconsolata-extralight */
+@font-face {
+	font-family: Inconsolata;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata ExtraLight"), local("Inconsolata-ExtraLight"), url(inconsolata-extralight.woff2) format("woff2");
+}
+/* inconsolata-light */
+@font-face {
+	font-family: Inconsolata;
+	font-style: normal;
+	font-weight: 300;
+	src: local("Inconsolata Light"), local("Inconsolata-Light"), url(inconsolata-light.woff2) format("woff2");
+}
+/* inconsolata-medium */
+@font-face {
+	font-family: Inconsolata;
+	font-style: normal;
+	font-weight: 500;
+	src: local("Inconsolata Medium"), local("Inconsolata-Medium"), url(inconsolata-medium.woff2) format("woff2");
+}
+/* inconsolata-regular */
+@font-face {
+	font-family: Inconsolata;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata Regular"), local("Inconsolata-Regular"), url(inconsolata-regular.woff2) format("woff2");
+}
+/* inconsolata-semibold */
+@font-face {
+	font-family: Inconsolata;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata SemiBold"), local("Inconsolata-SemiBold"), url(inconsolata-semibold.woff2) format("woff2");
+}
+

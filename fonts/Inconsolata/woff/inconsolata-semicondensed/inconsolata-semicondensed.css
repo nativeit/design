@@ -1,0 +1,57 @@
+/* inconsolata-semicondensed-black */
+@font-face {
+	font-family: Inconsolata SemiCondensed;
+	font-style: normal;
+	font-weight: 900;
+	src: local("Inconsolata SemiCondensed Black"), local("InconsolataSemiCondensed-Black"), url(inconsolata-semicondensed-black.woff2) format("woff2");
+}
+/* inconsolata-semicondensed-bold */
+@font-face {
+	font-family: Inconsolata SemiCondensed;
+	font-style: normal;
+	font-weight: 700;
+	src: local("Inconsolata SemiCondensed Bold"), local("InconsolataSemiCondensed-Bold"), url(inconsolata-semicondensed-bold.woff2) format("woff2");
+}
+/* inconsolata-semicondensed-extrabold */
+@font-face {
+	font-family: Inconsolata SemiCondensed;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata SemiCondensed ExtraBold"), local("InconsolataSemiCondensed-ExtraBold"), url(inconsolata-semicondensed-extrabold.woff2) format("woff2");
+}
+/* inconsolata-semicondensed-extralight */
+@font-face {
+	font-family: Inconsolata SemiCondensed;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata SemiCondensed ExtraLight"), local("InconsolataSemiCondensed-ExtraLight"), url(inconsolata-semicondensed-extralight.woff2) format("woff2");
+}
+/* inconsolata-semicondensed-light */
+@font-face {
+	font-family: Inconsolata SemiCondensed;
+	font-style: normal;
+	font-weight: 300;
+	src: local("Inconsolata SemiCondensed Light"), local("InconsolataSemiCondensed-Light"), url(inconsolata-semicondensed-light.woff2) format("woff2");
+}
+/* inconsolata-semicondensed-medium */
+@font-face {
+	font-family: Inconsolata SemiCondensed;
+	font-style: normal;
+	font-weight: 500;
+	src: local("Inconsolata SemiCondensed Medium"), local("InconsolataSemiCondensed-Medium"), url(inconsolata-semicondensed-medium.woff2) format("woff2");
+}
+/* inconsolata-semicondensed-regular */
+@font-face {
+	font-family: Inconsolata SemiCondensed;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata SemiCondensed Regular"), local("InconsolataSemiCondensed-Regular"), url(inconsolata-semicondensed-regular.woff2) format("woff2");
+}
+/* inconsolata-semicondensed-semibold */
+@font-face {
+	font-family: Inconsolata SemiCondensed;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Inconsolata SemiCondensed SemiBold"), local("InconsolataSemiCondensed-SemiBold"), url(inconsolata-semicondensed-semibold.woff2) format("woff2");
+}
+
