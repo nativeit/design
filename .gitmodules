@@ -1,12 +1,6 @@
 [submodule "TW-Elements"]
 	path = TW-Elements
 	url = https://github.com/nativeit-dev/TW-Elements.git
-[submodule "fonts/Bebas-Neue"]
-	path = fonts/Bebas-Neue
-	url = https://github.com/dharmatype/Bebas-Neue.git
-[submodule "fonts/webfont-kit-generator"]
-	path = fonts/webfont-kit-generator
-	url = https://github.com/rafaelmardojai/webfont-kit-generator.git
 [submodule "css/bahunya"]
 	path = css/bahunya
 	url = https://github.com/Kimeiga/bahunya.git
