@@ -31,3 +31,6 @@
 [submodule "components/evolution-ui"]
 	path = components/evolution-ui
 	url = https://github.com/evolution-ui/evolution-ui.git
+[submodule "Font Library"]
+	path = Font Library
+	url = https://github.com/nativeit/fontlib.git
